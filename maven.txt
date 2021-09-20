@@ -1,0 +1,500 @@
+   27  git add file 2
+   28  git log
+   29  git add file 1
+   30  git init
+   31  git config --global user.name "muralii"
+   32  git config --global user.email "murali.mehar@gmail.com
+   33  git config --global user. email "murali.mehar@gmail.com
+   34  git config --global user.email "murali.mehar@gmail.com"
+   35  git config --list
+   36  touch file1 file2 file3
+   37  git status
+   38   git add file2
+   39  git add file1
+   40  git status
+   41  git commit -m "two files moved into local repo" 
+   42  git status
+   43  git log
+   44  git log
+   45  git loh --online
+   46  git log --online
+   47  git log --oneline
+   48  git log --oneline -2
+   49  git commit -m "two files moved into local repogit commit -m "two files moved into local repo
+   50  git clone  (master)
+   51  $ git loh --online
+   52  git: 'loh' is not a git command. See 'git --help'.
+   53  The most similar command is
+   54  git clone https://github.com/Krishna9963/my-files.git
+   55  git push -u origin main
+   56  git remote add origin https://github.com/Krishna9963/my-files.git
+   57   git push -u origin main
+   58  git status
+   59  git init
+   60  git config --globel user.name "murali"
+   61  get config --global user.name "riya"
+   62  git config --global user.name "riya"
+   63   git config --global user.email "murali.mehar@gmail.com"
+   64  git config --list
+   65   touch file1 file2 file3 file4
+   66    git status
+   67   git add file1
+   68  git status
+   69  git add .
+   70  git status
+   71   git log
+   72  git commit -m "four files moved into local repo"
+   73  git log
+   74  git log --oneline
+   75  git clone https://github.com/Krishna9963/samplerepo.git
+   76  git remote add origin https://github.com/Krishna9963/samplerepo.git
+   77  git push -u origin main
+   78  git push
+   79  git push --set-upstream origin master
+   80  git log
+   81  git branch murali1
+   82  git branch
+   83  git checkout murali1
+   84  git log
+   85  git iit
+   86  git init
+   87  git status
+   88  git init
+   89  git status
+   90  git init
+   91  git status
+   92  git init
+   93  git status
+   94  git init
+   95  git status
+   96  git globel config "murali.mehar@gmail.com
+   97  git globel config "murali.mehar@gmail.com
+   98  git globel config "murali.mehar@gmail.com
+   99  git globel config "murali.mehar@gmail.com
+  100  git config --global user.name "devops"
+  101  git config --global user.email "murali.mehar@gmail.com
+  102  git config --list
+  103  git status
+  104  git init
+  105  git status
+  106  git init
+  107  git status
+  108  git init
+  109  git config --global user.name "murali"
+  110  git config --global user.email "murali.mehar@gmail.com
+  111  git status
+  112  git init
+  113  git status
+  114  git add myapp
+  115  git log
+  116  git init
+  117  git status
+  118  git add myapp.sln
+  119  git status
+  120  git add myapp
+  121  git init
+  122  git status
+  123  git add souce
+  124  git add source
+  125  git init
+  126  git config --global user.name "devops"
+  127  git config --global user.name "murali"
+  128  git config --global user.email "murali.mehar@gmail.com
+  129  git status
+  130  git init
+  131  git config --global user.name "devops"
+  132  git config --global user.name "murali"
+  133  git config --global user.email "murali.mehar@gmail.com
+  134  git init
+  135  git status
+  136  git add source
+  137  git init
+  138  git config --global user.name "murali"
+  139  git config --global user.email "murali.mehar@gmail.com"
+  140  git status
+  141  git log
+  142  git commit -m "myapp moved into local repo"
+  143  git status
+  144  git log
+  145  git log --oneline
+  146  git clone https://github.com/Krishna9963/myapp.git
+  147  git remote add origin https://github.com/Krishna9963/myapp.git
+  148  git push -u origin main
+  149  git push --set-upstream origin master
+  150  git log
+  151  code .
+  152  git init
+  153  git add .
+  154  git commit m "my first commit"
+  155  git commit m "first commit"
+  156  git init
+  157  got add .
+  158  git add .
+  159  git commit -m "first commit"
+  160  git remote add origin https://github.com/KRISHNAYZURE/myrepos.git
+  161  git push -u origin main
+  162  git push -u origin myrepos
+  163   git push -u origin myrepos
+  164  git push -u origin mygroup
+  165  git remote add origin https://github.com/KRISHNAYZURE/myrepos.git
+  166  git init
+  167  git commit -m "first commit"
+  168  git init
+  169  git config --global user.name "murali"
+  170  git config --global user.email "murali.mehar@gmail.com"
+  171  git status
+  172  git add source
+  173  git init
+  174  git config --global user.name "devops"
+  175  git config --global user.email "murali.mehar@gmail.com"
+  176  git clone https://github.com/aws-samples/eb-tomcat-snakes.git
+  177  git commit -m "first commit"
+  178  git remote add origin https://github.com/KRISHNAYZURE/myrepos.git
+  179  git init
+  180  git status
+  181  git add pom.xml
+  182  git status
+  183  git status
+  184  git commit  -m "pom.xml moved into local repo"
+  185  git status
+  186  git log
+  187  git clone https://github.com/muraliiaj/myfiles.git
+  188  git remote add origin https://github.com/muraliiaj/myfiles.git
+  189  git push -u origin main
+  190  git push
+  191  git push --set-upstream origin master
+  192  git status
+  193  git log
+  194  git clone https://github.com/muraliiaj/pom.xml.git
+  195  git remote add origin https://github.com/muraliiaj/pom.xml.git
+  196  git push -u origin main
+  197  git push --set-upstream origin master
+  198  git init
+  199  git config --global user.name "krishna"
+  200  git config --global user.email "krishnayazure@gmail.com"
+  201  git status
+  202  git log
+  203  git clone https://github.com/KRISHNAYZURE/myrepos.git
+  204  git remote add origin https://github.com/KRISHNAYZURE/myrepos.git
+  205  git log
+  206  git clone https://github.com/KRISHNAYZURE/code.git
+  207  git remote add origin https://github.com/KRISHNAYZURE/code.git
+  208  git init
+  209  git status
+  210  git commit -m "first commit pom.xml file moved into local repo "
+  211  git log
+  212  git clone https://github.com/KRISHNAYZURE/murali.git
+  213  git remote add origin https://github.com/KRISHNAYZURE/murali.git
+  214  git push -u origin main
+  215  git push
+  216  git push --set-upstream origin master
+  217  git status
+  218  git add pom.xml
+  219  git status
+  220  git log
+  221  git commit -m "first commit pom.xml file moved into local repo"
+  222  git clone https://github.com/muraliaws/java.git
+  223  git remote add origin https://github.com/muraliaws/java.git
+  224  git push
+  225  git push --set-upstream origin master
+  226  git init
+  227  git status
+  228  git log
+  229  git clone https://github.com/muraliaws/project21.git
+  230  git remote add origin https://github.com/muraliaws/project21.git
+  231  git push -u origin main
+  232  git push
+  233  git push --set-upstream origin master
+  234  #!/bin/bash
+  235  #set -x
+  236  ############### moving old query and log files
+  237  mv Oracle_queries.txt Oracle_queries.txt-"$(date '+%Y-%m-%d_%H-%M')" 2>/dev/null 
+  238  mv oracle_Releasefile oracle_Releasefile-"$(date '+%Y-%m-%d_%H-%M')" 2>/dev/null 
+  239  #mv client_status.txt client_status.txt-"$(date '+%Y-%m-%d_%H-%M')" 2>/dev/null 
+  240  mv Oracle_error.txt Oracle_error.txt-"$(date '+%Y-%m-%d_%H-%M')" 2>/dev/null
+  241  rm -rf file_oracle_doesnt_exist
+  242  touch Oracle_queries.txt oracle_Releasefile Oracle_error.txt
+  243  ################### checking release paramter passed or not from Jenkins
+  244  if [[ -z "$1" ]]; then echo "please provide Oracle DB Hostname to proceed furthur"; exit 1; else grep -w "$1" Oracle_file.txt; if [ $? -ne 0 ]; then    echo "Oracle DB Hostname details are not availble, please enter correct details ";    exit 1; fi; fi
+  245  #!/bin/bash
+  246  #set -x
+  247  ############### moving old query and log files
+  248  mv Oracle_queries.txt Oracle_queries.txt-"$(date '+%Y-%m-%d_%H-%M')" 2>/dev/null 
+  249  mv oracle_Releasefile oracle_Releasefile-"$(date '+%Y-%m-%d_%H-%M')" 2>/dev/null 
+  250  #mv client_status.txt client_status.txt-"$(date '+%Y-%m-%d_%H-%M')" 2>/dev/null 
+  251  mv Oracle_error.txt Oracle_error.txt-"$(date '+%Y-%m-%d_%H-%M')" 2>/dev/null
+  252  rm -rf file_oracle_doesnt_exist
+  253  touch Oracle_queries.txt oracle_Releasefile Oracle_error.txt
+  254  ################### checking release paramter passed or not from Jenkins
+  255  if [[ -z "$1" ]]; then echo "please provide Oracle DB Hostname to proceed furthur"; exit 1; else grep -w "$1" Oracle_file.txt; if [ $? -ne 0 ]; then    echo "Oracle DB Hostname details are not availble, please enter correct details ";    exit 1; fi; fi
+  256  git init
+  257  git status
+  258  git init
+  259  git status
+  260  git add .
+  261  git status
+  262  git log
+  263  git commit -m "myupdate"
+  264  git log
+  265  git push
+  266  git push https://github.com/
+  267  git push
+  268  git push
+  269  git push https://github.com/muraliiaj/mavenrepo.git
+  270  git push --set -upstream https://github.com/muraliiaj/mavenrepo.git
+  271  git log
+  272  git commit 97bbcfc85c221353dfe01dde31622fe22b9f00ac
+  273  git push
+  274  git show
+  275  git log
+  276  git show 97bbcfc85c221353dfe01dde31622fe22b9f00ac
+  277  git push https://github.com/muraliaws/project21.git
+  278  git push
+  279  git status
+  280  git log
+  281  git push
+  282  git push --set-upstream origin master
+  283  git init
+  284  git status
+  285  git log
+  286  git push origin master
+  287  cd ..
+  288  git init
+  289  git push
+  290  git status
+  291  git log
+  292  git push
+  293  git push https://github.com/muraliiaj/mavenrepo
+  294  git status
+  295  ls
+  296  ls -l
+  297  ls -a
+  298  ls -lrt
+  299  ls -ltr
+  300  git config -l
+  301  git config -ll
+  302  git init
+  303  git branch -r
+  304  git clone http://github.com/polarapu/batch71.git
+  305  git branch
+  306  git branch -r
+  307  git show 
+  308  git push
+  309  git status
+  310  git init
+  311  git config --global user.name "murali"
+  312  git config --global user.email "ajjadamuralii@gmail.com"
+  313  git config --list
+  314  git clone https://github.com/muraliiaj/terraformsingleinstance.git
+  315  ls
+  316  cd git-1
+  317  cd git-1/
+  318  cd gitcommit
+  319  mkdir git-1
+  320  ls
+  321  cd terraformsingleinstance/
+  322  git push
+  323  git pull --rebase
+  324  git push
+  325  cd ..
+  326  mkdir newfiles
+  327  cd newfiles
+  328  touch file1 file2 file3 file4
+  329  ls
+  330  git push
+  331  git init
+  332  git config --global user.name "murali"
+  333  git config --global user.email "ajjadamuralii@gmail.com"
+  334  ls
+  335  cd my-local-files/
+  336  touch file20 file21 file22 file24
+  337  ls
+  338  git status
+  339  ls
+  340  ls
+  341  gid add file20
+  342  git add file20
+  343  git add file21
+  344  git add file22
+  345  git add file24
+  346  git status
+  347  git commit -m "mylocalfilesmt"
+  348  git log
+  349  git log e61325a168beb268da2bbbbf9eb113501841c341
+  350  git push
+  351  git push --set-upstream origin master
+  352  git push
+  353  git push
+  354  cd ..
+  355  git push
+  356  git init
+  357  git config --global user.name "murali"
+  358  git config --global user.email "ajjadamuralii@gmail.com"
+  359  ls
+  360  git status
+  361  git adda file1
+  362  git status
+  363  git add file1
+  364  git add file2
+  365  git add file3
+  366  git add file4
+  367  git status
+  368  git commit --m "newbatch
+  369  git status
+  370  git status
+  371  git commit -m "newbatch"
+  372  git status
+  373  git log
+  374  git push
+  375   git log
+  376  git push
+  377  git push newbatch
+  378   git push --set-upstream newbatch
+  379  git
+  380  git push 
+  381  git remote add origin https://github.com/muraliiaj/devops.git
+  382  git push -u origin main
+  383  ls
+  384  git status
+  385  git log
+  386  git push
+  387  git log
+  388  git show a71cb99c9138d20dbfb8b50d49b41985239fc427
+  389  git ls -a
+  390  ls -a
+  391  git push
+  392  ls
+  393  ls ltr
+  394  ls lrt
+  395  ls 
+  396  cd ..
+  397  ls
+  398  git push
+  399  ls
+  400  cd newfiles
+  401  pwd
+  402  git push
+  403  git push --set-upstream origin master
+  404  git push
+  405  git push --set-upstream origin master
+  406  git push
+  407  git push --set-upstream origin master
+  408  git push
+  409  git push https://github.com/muraliiaj/my-loacl-files.git
+  410  git push --set-upstream origin master
+  411  git log
+  412  ls
+  413  git status
+  414  git push
+  415  git push --set-upstream origin master
+  416  git init
+  417  git config --global user.name "murali"
+  418  git config --global user.email "ajjadamuralii@gmail.com
+  419  git config --global user.email "ajjadamuralii@gmail.com"
+  420  git status
+  421  gid add .
+  422  git add .
+  423  git staus
+  424  git status
+  425  git log
+  426  git logs
+  427  git log
+  428  git commit -m "mylocalfilesmt"
+  429  git status
+  430  git log
+  431  git show c581a8cba2c9c2e5cc09028018ae8df7ebbfebf7
+  432  git push
+  433  git push --set-upstream origin master
+  434  git log
+  435  git show c581a8cba2c9c2e5cc09028018ae8df7ebbfebf7
+  436  git pus
+  437  git push
+  438  git push --set-upstream origin master
+  439  git clone https://github.com/muraliiaj/my-loacl-files.git
+  440  git remote add origin https://github.com/muraliiaj/my-loacl-files.git
+  441  git push
+  442  git push --set-upstream origin master
+  443  git clone 9491847435/centos.git
+  444  git init
+  445  git config --global user.name "murali"
+  446  git config --global user.email "ajjadamuralii@gmail.com"
+  447  git status
+  448  git add centos
+  449  git add .
+  450  git clone http://github.com/9491847435/centos.git
+  451  git status
+  452  git add my-laocal-files/
+  453  git add my-loacl-files
+  454  git commit -m "centos"
+  455  git log
+  456  git a4f492d435b5fa87a67839efa9dca43f53c6db4a
+  457  git show a4f492d435b5fa87a67839efa9dca43f53c6db4a
+  458  git push
+  459  git init
+  460  mvn --version
+  461  git init
+  462  mvn --version
+  463  git init
+  464  git branch
+  465  git branch -r
+  466  pwd
+  467  exit
+  468  pwd
+  469  git init
+  470  git clone https://github.com/muraliiaj/NewMaven.git
+  471  git remote -v
+  472  git config --global user.name "muraliiaj"
+  473  git config --global user.email "ajjadamuralii@gmail.com"
+  474  git config --list
+  475  touch murali1
+  476  git status
+  477  cd NewMaven/
+  478  ls
+  479  touch sample20
+  480  git status
+  481  pwd
+  482  git add .
+  483  git s
+  484  git status
+  485  git commit -m "sam20"
+  486  git log 
+  487  git show 1facc84e1f198274f721d828b1fbdf9e0544e5f4
+  488  git push
+  489  ls
+  490  rm -rf
+  491  ls
+  492  rm -rf sample20
+  493  ls
+  494  git pull --rebase
+  495  git status
+  496  git add .
+  497  git commit -m "deleted"
+  498  git push
+  499  mvn -version
+  500  pwd
+  501  cd ..
+  502  mkdir maven
+  503  cd maven
+  504  mvn archetype:generate
+  505  ls
+  506  cd web-app-project/
+  507  ls
+  508  git status
+  509  cd ..
+  510  ls
+  511  cd ..
+  512  ls
+  513  pwd
+  514  cd maven/web-app-project/
+  515  ls
+  516  cp -pr * /d/devops1/git/NewMaven/
+  517  ls
+  518  cd ..
+  519  cd ../NewMaven/
+  520  git status
+  521  git add *
+  522  git status
+  523  git commit -m "web-app"
+  524  git push
+  525  history
+  526  history >maven.txt
